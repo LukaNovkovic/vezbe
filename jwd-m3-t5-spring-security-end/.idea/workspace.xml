@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80dd65da-bbe5-4e82-992d-4b9fdd7c13e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jgcMRYw8wStpBX4azuEn7u578f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/domaci m3 T5/jwd-m3-t5-spring-security" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ftninformatika.jwd.modul3.cinema.service.impl" />
+      <recent name="com.ftninformatika.jwd.modul3.cinema.web.dto" />
+      <recent name="com.ftninformatika.jwd.modul3.cinema.security" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\nastava\JWD\materijali-modul3\Termin5\jwd-m3-t5-spring-security\src\main\java\com\ftninformatika\jwd\modul3\cinema\security" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CinemaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jwd-m3-t5-spring-security-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ftninformatika.jwd.modul3.cinema.CinemaApplication" />
+      <option name="ENABLE_JMX_AGENT" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80dd65da-bbe5-4e82-992d-4b9fdd7c13e3" name="Default Changelist" comment="" />
+      <created>1604229126431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604229126431</updated>
+      <workItem from="1604229130659" duration="168000" />
+      <workItem from="1604229341710" duration="410000" />
+      <workItem from="1604229787006" duration="10968000" />
+      <workItem from="1604339487932" duration="186000" />
+      <workItem from="1604759136017" duration="4563000" />
+      <workItem from="1604772189153" duration="2996000" />
+      <workItem from="1604870676046" duration="14955000" />
+      <workItem from="1605289598560" duration="1374000" />
+      <workItem from="1605353867776" duration="105000" />
+      <workItem from="1605698388380" duration="1702000" />
+      <workItem from="1605712146719" duration="1943000" />
+      <workItem from="1605735398256" duration="745000" />
+      <workItem from="1605943046258" duration="1873000" />
+      <workItem from="1605957585111" duration="6675000" />
+      <workItem from="1606061593850" duration="677000" />
+      <workItem from="1606152411334" duration="4981000" />
+      <workItem from="1606380231759" duration="42000" />
+      <workItem from="1610551413390" duration="5446000" />
+      <workItem from="1610608376487" duration="989000" />
+      <workItem from="1610717129193" duration="786000" />
+      <workItem from="1610718381092" duration="718000" />
+      <workItem from="1610719954309" duration="82000" />
+      <workItem from="1611065270373" duration="1521000" />
+      <workItem from="1611166889438" duration="531000" />
+      <workItem from="1612251748670" duration="1020000" />
+      <workItem from="1612257200835" duration="1323000" />
+      <workItem from="1612891985218" duration="348000" />
+      <workItem from="1614070900010" duration="65000" />
+      <workItem from="1614184276966" duration="82000" />
+      <workItem from="1614185760619" duration="4177000" />
+      <workItem from="1614286967306" duration="1256000" />
+      <workItem from="1614288945261" duration="1732000" />
+      <workItem from="1614292033961" duration="415000" />
+      <workItem from="1614348155146" duration="837000" />
+      <workItem from="1614514293133" duration="1521000" />
+      <workItem from="1614670672005" duration="824000" />
+      <workItem from="1614704280398" duration="4998000" />
+      <workItem from="1614784384600" duration="287000" />
+      <workItem from="1614895778394" duration="1255000" />
+      <workItem from="1614948509072" duration="76000" />
+      <workItem from="1614948594475" duration="1986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="56" key="#CinemaApplication" timestamp="1614948818624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="56" key="#CinemaApplication/0.0.1536.824@0.0.1536.824" timestamp="1614948818624" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614948786849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614948786849" />
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1614187451493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614187451493" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1614948816882">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1614948816882" />
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1614948678086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1614948678086" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1614784434333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614784434333" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1614949752046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614949752046" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1614949752046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614949752046" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1614949752045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614949752045" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1614949752046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614949752046" />
+    <state width="1493" height="221" key="GridCell.Tab.1.bottom" timestamp="1614949718428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614949718428" />
+    <state width="1493" height="221" key="GridCell.Tab.1.center" timestamp="1614949718428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614949718428" />
+    <state width="1493" height="221" key="GridCell.Tab.1.left" timestamp="1614949718427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614949718427" />
+    <state width="1493" height="221" key="GridCell.Tab.1.right" timestamp="1614949718428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614949718428" />
+    <state width="1493" height="221" key="GridCell.Tab.2.bottom" timestamp="1614897049391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614897049391" />
+    <state width="1493" height="221" key="GridCell.Tab.2.center" timestamp="1614897049391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1614897049391" />
+    <state width="1493" height="221" key="GridCell.Tab.2.left" timestamp="1614897049391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1614897049391" />
+    <state width="1493" height="221" key="GridCell.Tab.2.right" timestamp="1614897049391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1614897049391" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1614948791684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614948791684" />
+    <state x="473" y="168" width="590" height="488" key="find.popup" timestamp="1614949923795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="168" width="590" height="488" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1614949923795" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/web/controller/KorisnikController.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/web/controller/KorisnikController.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/web/controller/KorisnikController.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/service/impl/JpaKorisnikService.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/service/impl/JpaKorisnikService.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/service/impl/JpaKorisnikService.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/web/controller/FilmController.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/web/controller/FilmController.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/support/FilmToFilmDto.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/service/impl/JpaFilmService.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ftninformatika/jwd/modul3/cinema/service/impl/JpaFilmService.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
